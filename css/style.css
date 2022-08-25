@@ -2234,7 +2234,6 @@ header {
 
 @media screen and (max-width: 480px) {
   .gnavi01 {
-      padding-top: initial !important;
       height: 140px !important;
       line-height: initial !important;
       color: #fff !important;
