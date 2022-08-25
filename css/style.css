@@ -2240,6 +2240,18 @@ header {
       font-size: initial !important;
       font-weight: bold !important;
     }
+
+    .gnavi01 a:hover span::after {
+      content: "";
+      position: absolute;
+      display: block;
+      height: 2px !important;
+      width: 100%;
+      bottom: 0 !important;
+      background-color: #0a58ca;
+      border-radius: 5px;
+      top: 20px;
+    }
 }
 
 footer ul li {
